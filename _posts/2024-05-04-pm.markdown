@@ -1,0 +1,11 @@
+---
+layout:post  
+title:"Hello"   <!--文章标题-->  
+author:"DHEnry"   <!--作者-->   
+header-style:text  
+catalog:true <!--发布？-->  
+tags:<!--标签-->
+  - hello
+---
+
+欢迎来到DHEnry的博客
